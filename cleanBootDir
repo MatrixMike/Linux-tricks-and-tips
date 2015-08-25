@@ -1,0 +1,16 @@
+cd /boot
+df -h
+pwd
+uname -r
+
+sudo apt-get remove linux-image-3.13.0.32
+sudo apt-get remove linux-image-3.13.0.45
+sudo apt-get remove linux-image-3.13.0.49
+sudo apt-get remove linux-image-3.13.0.51
+sudo apt-get remove linux-image-3.13.0.52
+sudo apt-get remove linux-image-3.13.0.53
+sudo apt-get remove linux-image-3.13.0.43
+sudo apt-get autoremove
+sudo apt-get update-grub
+sudo update-grub
+
