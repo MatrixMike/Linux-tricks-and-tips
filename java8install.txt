@@ -1,0 +1,11 @@
+  
+  26.08.2015 22:09:24
+  
+ls -lc
+javac -version
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update 
+sudo apt-get install oracle-java8-installer 
+javac -version
+pwd
+ 
