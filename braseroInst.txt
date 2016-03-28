@@ -1,0 +1,15 @@
+Mon Mar 28 11:56:46 AEDT 2016 
+
+Brasero install on XUbuntu
+
+My laptop was good to play CD and DVD and I tried to copy a CD recently using the same laptop with some success after brasero detecting that some library files were missing which it could automatically (I recall) install itself (i.e. with something like a few clicks).
+
+I tried today to make a DVD copy and Brasero informed me that : "All required applications and libraries are not installed."
+I was told  :"Please install the following manually and try again:
+libdvdcss.so.2 (library)
+libdvdcss.so.2 (library)."
+
+The question was/is how and where from. This issue occurs often with linux and this time I attempt to document and share my experience.
+Mon Mar 28 12:02:09 AEDT 2016 
+
+

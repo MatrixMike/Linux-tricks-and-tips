@@ -1,0 +1,6 @@
+libdvdcss2:
+  Installed: 1.2.13-0
+  Candidate: 1.2.13-0
+  Version table:
+ *** 1.2.13-0 0
+        100 /var/lib/dpkg/status
