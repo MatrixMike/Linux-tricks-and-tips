@@ -12,4 +12,35 @@ libdvdcss.so.2 (library)."
 The question was/is how and where from. This issue occurs often with linux and this time I attempt to document and share my experience.
 Mon Mar 28 12:02:09 AEDT 2016 
 
+https://bugs.launchpad.net/ubuntu/+source/brasero/+bug/611590
+
+ 1999  cd ~/Linux-tricks-and-tips/
+ 2000  ls -lctr
+ 2001  git status
+ 2002  git add braseroInst.txt
+ 2003  git status
+ 2004  cat extractRadioAfter1967.txt 
+ 2005  Please install the following manually and try again:
+ 2006  libdvdcss.so.2 (library)
+ 2007  libdvdcss.so.2 (library).
+ 2008  git status
+ 2009  cd ~/
+ 2010  cd ~/Linux-tricks-and-tips/
+ 2011  apt-cache policy libdvdcss2
+ 2012  whereis libdvdcss.so.2
+ 2013  sudo apt-get install libdvdread4
+ 2014  apt-cache policy libdvdcss2
+ 2015  sudo /usr/share/doc/libdvdread4/install-css.sh
+ 2016  apt-cache policy libdvdcss2
+ 2017  history > histTemp1.txt
+
+Mon Mar 28 13:27:06 AEDT 2016 
+ 2014  apt-cache policy libdvdcss2  =>
+libdvdcss2:
+  Installed: 1.2.13-0
+  Candidate: 1.2.13-0
+  Version table:
+ *** 1.2.13-0 0
+        100 /var/lib/dpkg/status
+
 
