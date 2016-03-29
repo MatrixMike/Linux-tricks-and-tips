@@ -1,0 +1,10 @@
+Tue 29 Mar 2016 11:06:19 AEDT 
+How to read logs on updates -where would they be?
+
+Troubleshooting WLAN USB dongles and WLAN in general - often works from a LiveCD but becomes flakey after HDD install.  Linux Mint Update 4.9.3.3 Update Manager. {Note that Linux Mint seems to keep FireFox addons uptodate more than Ubuntu.  
+
+Selecting screen savers in (X) Ubuntu
+man cookies
+
+
+
