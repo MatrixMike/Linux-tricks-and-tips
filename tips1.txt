@@ -3,4 +3,15 @@ tips and examples
 
 echo $JAVA_HOME
 
+sudo locate *.iso
+apt-cache policy libdvdcss2
+whereis libdvdcss2.so
+whereis libdvdcss2.so.2
+whereis libdvdcss.so.2
+
+
+isoinfo -d -i /media/mike/TEMPLE_GRANDIN/
+
+java -jar javaxSwing-1.0.1-SNAPSHOT-standalone.jar 
+
 
