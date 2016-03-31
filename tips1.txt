@@ -1,0 +1,6 @@
+Thu Mar 31 12:58:36 AEDT 2016 
+tips and examples
+
+echo $JAVA_HOME
+
+
