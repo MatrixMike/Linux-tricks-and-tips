@@ -14,4 +14,6 @@ isoinfo -d -i /media/mike/TEMPLE_GRANDIN/
 
 java -jar javaxSwing-1.0.1-SNAPSHOT-standalone.jar 
 
+find . -name tips*.txt
+
 
