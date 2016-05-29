@@ -18,3 +18,6 @@ find . -name tips*.txt
 
 route -n
 
+wodim -prcap
+
+
