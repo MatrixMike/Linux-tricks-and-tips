@@ -1,4 +1,5 @@
 Thu Mar 31 12:58:36 AEDT 2016 
+Mon Aug 29 12:55:41 AEST 2016 
 tips and examples
 
 echo $JAVA_HOME
@@ -20,4 +21,5 @@ route -n
 
 wodim -prcap
 
+lsb_release -a
 
