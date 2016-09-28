@@ -5,7 +5,6 @@ long fibonacci(long number) {
           return fibonacci(number - 1) + fibonacci(number - 2);
     }
 fibonacci (12)
-int[] array = { 1,2,3,4,5,6,7,8 };
 for( long i : array ) { System.out.println(fibonacci( i )); }
 class Person {
            public String name;
@@ -26,3 +25,13 @@ Person p2 = new Person( "Zach", 10, "Good at Math" );
 p2
 System.out.println("http://www.javaworld.com/article/2971152/core-java/what-repl-means-for-java.html  ");
 array
+p1
+p2
+fibonacci(12)
+int[] array = { 1,2,3,4,5,6,7,8,9,10 };
+for( long i : array ) { System.out.println(fibonacci( i )); }
+fibonacci(120)
+fibonacci(20)
+fibonacci(30)
+fibonacci(40)
+fibonacci(50)
