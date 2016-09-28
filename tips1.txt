@@ -23,7 +23,7 @@ wodim -prcap
 
 lsb_release -a
 
-boabab
+baobab
 
 nm-tools    nm-applet   
 
