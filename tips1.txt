@@ -25,5 +25,18 @@ lsb_release -a
 
 baobab
 
+====
+  488  git config -l
+  489  cd ~/
+  490  sudo apt-add-repository ppa:git-core/ppa
+  491  git --version
+  492  sudo apt-get update 
+  493  sudo apt-get upgrade 
+  494  git --version
+  495  git config -l
+  496  history 
+  497  history > ~/thisPC/history3.txt
+====
+
 nm-tools    nm-applet   
 
