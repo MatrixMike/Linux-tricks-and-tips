@@ -22,6 +22,8 @@ route -n
 wodim -prcap
 
 lsb_release -a
+# compare with 'cat  /etc/lsb-release.dpkg-dist' on same machine
+
 
 baobab
 
