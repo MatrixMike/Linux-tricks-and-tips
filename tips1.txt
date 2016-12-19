@@ -49,6 +49,9 @@ git clone https://github.com/csete/gpredict.git
 ==== version of Linux including which 'Edition' KDE,XFCE, etc
 inxi -F
 cat /etc/linuxmint/info 
+==== remove directory and files contained therein
+rm --help
+rm -rf <directory>
 ====
 
 
