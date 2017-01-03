@@ -53,5 +53,6 @@ cat /etc/linuxmint/info
 rm --help
 rm -rf <directory>
 ====
+mkdir -p src/github.com/matrixmike 
 
 
