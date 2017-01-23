@@ -38,6 +38,7 @@ baobab
   495  git config -l
   496  history 
   497  history > ~/thisPC/history3.txt
+{ when you forget git actions try visiting https://www.codeschool.com }
 ====
 
 nm-tools    nm-applet   
@@ -54,5 +55,7 @@ rm --help
 rm -rf <directory>
 ====
 mkdir -p src/github.com/matrixmike 
+====
+
 
 
