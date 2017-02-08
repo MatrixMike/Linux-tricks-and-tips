@@ -38,6 +38,7 @@ baobab
   495  git config -l
   496  history 
   497  history > ~/thisPC/history3.txt
+git var -l
 ====
 
 nm-tools    nm-applet   
