@@ -18,6 +18,7 @@ java -jar javaxSwing-1.0.1-SNAPSHOT-standalone.jar
 find . -name tips*.txt
 
 route -n
+sudo ifconfig eth0 down
 
 wodim -prcap
 
