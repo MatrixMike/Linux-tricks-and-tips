@@ -21,3 +21,6 @@ for i in $IDS2; do
  mkdir $i
 done
 
+tree ..
+
+
