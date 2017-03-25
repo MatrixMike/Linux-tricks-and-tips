@@ -16,3 +16,8 @@ FULL_SIZE_JPG
 TIFFS
 """
 
+cd Exported
+for i in $IDS2; do
+ mkdir $i
+done
+
