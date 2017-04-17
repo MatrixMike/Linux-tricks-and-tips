@@ -65,6 +65,8 @@ mkdir -p src/github.com/matrixmike
 ====
 curl -s "https://get.sdkman.io" | bash
 ====
+sdk install Leiningen
+====
 
 
 
