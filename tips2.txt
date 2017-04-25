@@ -67,6 +67,8 @@ curl -s "https://get.sdkman.io" | bash
 ====
 sdk install Leiningen
 ====
+java -cp clojure-1.8.0.jar clojure.main clojure/stringeye/src/stringeye/core.clj 
+java -cp clojure-1.8.0.jar clojure.main clojure/showargs.clj  one two
 
 
 
