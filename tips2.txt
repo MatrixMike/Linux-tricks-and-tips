@@ -67,7 +67,7 @@ mkdir -p src/github.com/matrixmike
 curl -s "https://get.sdkman.io" | bash     <-s for silent>
 curl electroteach.com/cgi-bin/cgi2.cgi
 ====
-sdk install Leiningen
+sdk install leiningen
 ====
 java -cp clojure-1.8.0.jar clojure.main clojure/stringeye/src/stringeye/core.clj 
 java -cp clojure-1.8.0.jar clojure.main clojure/showargs.clj  one two
