@@ -69,6 +69,12 @@ sdk install Leiningen
 ====
 java -cp clojure-1.8.0.jar clojure.main clojure/stringeye/src/stringeye/core.clj 
 java -cp clojure-1.8.0.jar clojure.main clojure/showargs.clj  one two
+====
+ls page58/     -Rlcth
+rm page58/utils/demo.class
+javac page58/Shape.java
+
+
 
 
 
