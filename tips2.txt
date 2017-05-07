@@ -51,6 +51,7 @@ nm-tools    nm-applet
 
 ==== an example of a good make/ build (that worked for me on several plaforms - about which more later)
 sudo apt-get install autoconf libtool intltool  automake libglib2.0-dev indent libgoocanvas-dev libcurl4-gnutls-dev
+sudo apt-get install tree gedit geany gitk
 sudo apt install libtool-bin
 git clone https://github.com/csete/gpredict.git
 
@@ -63,9 +64,10 @@ rm -rf <directory>
 ====
 mkdir -p src/github.com/matrixmike 
 ====
-curl -s "https://get.sdkman.io" | bash
+curl -s "https://get.sdkman.io" | bash     <-s for silent>
+curl electroteach.com/cgi-bin/cgi2.cgi
 ====
-sdk install Leiningen
+sdk install leiningen
 ====
 java -cp clojure-1.8.0.jar clojure.main clojure/stringeye/src/stringeye/core.clj 
 java -cp clojure-1.8.0.jar clojure.main clojure/showargs.clj  one two
