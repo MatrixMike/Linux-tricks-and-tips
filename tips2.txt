@@ -50,7 +50,7 @@ git var -l
 nm-tools    nm-applet   
 
 ==== an example of a good make/ build (that worked for me on several plaforms - about which more later)
-sudo apt-get install autoconf libtool intltool  automake libglib2.0-dev indent libgoocanvas-dev libcurl4-gnutls-dev
+sudo apt-get install autoconf libtool intltool  automake libglib2.0-dev indent libgoocanvas-dev libcurl4-gnutls-dev autopoint
 sudo apt-get install tree gedit geany gitk cppcheck 
 sudo apt install libtool-bin
 git clone https://github.com/csete/gpredict.git
