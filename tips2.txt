@@ -71,8 +71,10 @@ curl electroteach.com/cgi-bin/cgi2.cgi
 sdk install leiningen
 sdk install scala
 ====
+locate clojure-1.8.0.jar
 java -cp clojure-1.8.0.jar clojure.main clojure/stringeye/src/stringeye/core.clj 
 java -cp clojure-1.8.0.jar clojure.main clojure/showargs.clj  one two
+java -cp clojure-1.8.0.jar clojure.main    <- use this for clojure REPL
 ====
 ls page58/     -Rlcth
 rm page58/utils/demo.class
