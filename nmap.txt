@@ -1,2 +1,2 @@
-sudo nmap   -sL  10.0.0.1-20 
+sudo nmap   -sn   172.20.10.1/24
 
