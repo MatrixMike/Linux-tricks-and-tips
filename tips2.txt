@@ -79,6 +79,14 @@ java -cp clojure-1.8.0.jar clojure.main    <- use this for clojure REPL
 ls page58/     -Rlcth
 rm page58/utils/demo.class
 javac page58/Shape.java
+====
+iPhone stuff
+idevice_id -l  ; do idevice<tabComplete>
+====
+Haskell
+https://www.haskell.org/downloads/linux
+
+
 
 
 
