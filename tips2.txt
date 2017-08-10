@@ -94,6 +94,10 @@ idevice_id -l  ; do idevice<tabComplete>
 Haskell
 https://www.haskell.org/downloads/linux
 
+====
+PATH=$PATH:~/opt/bin
+PATH=~/opt/bin:$PATH
+
 
 
 
