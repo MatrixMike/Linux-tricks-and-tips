@@ -1,0 +1,108 @@
+Thu Mar 31 12:58:36 AEDT 2016 
+Mon Aug 29 12:55:41 AEST 2016 
+tips and examples
+
+echo $JAVA_HOME
+
+sudo locate *.iso
+apt-cache policy libdvdcss2
+whereis libdvdcss2.so
+whereis libdvdcss2.so.2
+whereis libdvdcss.so.2
+
+
+isoinfo -d -i /media/mike/TEMPLE_GRANDIN/
+
+java -jar javaxSwing-1.0.1-SNAPSHOT-standalone.jar 
+
+find . -name tips*.txt
+find /lib /usr/lib -name 'libtinfo*'
+
+route -n
+sudo ifconfig eth0 down
+
+wodim -prcap
+
+lsb_release -a
+# compare with 'cat  /etc/lsb-release.dpkg-dist' on same machine
+
+
+baobab
+
+====
+  488  git config -l
+  489  cd ~/
+  490  sudo apt-add-repository ppa:git-core/ppa
+  491  git --version
+  492  sudo apt-get update 
+  493  sudo apt-get upgrade 
+  494  git --version
+  495  git config -l
+  496  history 
+  497  history > ~/thisPC/history3.txt
+
+git var -l
+=======
+{ when you forget git actions try visiting https://www.codeschool.com }
+
+====
+
+nm-tools    nm-applet   
+
+==== an example of a good make/ build (that worked for me on several plaforms - about which more later)
+sudo apt-get install autoconf libtool intltool  automake libglib2.0-dev indent libgoocanvas-dev libcurl4-gnutls-dev autopoint
+sudo apt-get install tree gedit geany gitk cppcheck 
+sudo apt install libtool-bin
+sudo apt-get install xfce4-dev-tools
+
+git clone https://github.com/csete/gpredict.git
+scp geany-1.30.1.tar.gz mikeh@10.0.0.57:/home/mikeh/geany
+
+==== version of Linux including which 'Edition' KDE,XFCE, etc
+inxi -F
+cat /etc/linuxmint/info 
+==== remove directory and files contained therein
+rm --help
+rm -rf <directory>
+====
+mkdir -p src/github.com/matrixmike 
+====
+curl -s "https://get.sdkman.io" | bash     <-s for silent>
+curl electroteach.com/cgi-bin/cgi2.cgi
+====
+sdk install leiningen
+sdk install scala
+----
+alternative  // from http://www.scala-sbt.org/download.html
+echo "deb https://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 2EE0EA64E40A89B84B2DF73499E82A75642AC823
+sudo apt-get update
+sudo apt-get install sbt
+====
+locate clojure-1.8.0.jar
+java -cp clojure-1.8.0.jar clojure.main clojure/stringeye/src/stringeye/core.clj 
+java -cp clojure-1.8.0.jar clojure.main clojure/showargs.clj  one two
+java -cp clojure-1.8.0.jar clojure.main    <- use this for clojure REPL
+====
+ls page58/     -Rlcth
+rm page58/utils/demo.class
+javac page58/Shape.java
+====
+iPhone stuff
+idevice_id -l  ; do idevice<tabComplete>
+====
+Haskell
+https://www.haskell.org/downloads/linux
+stack install hpack
+
+
+====
+PATH=$PATH:~/opt/bin
+PATH=~/opt/bin:$PATH
+
+
+
+
+
+
+
