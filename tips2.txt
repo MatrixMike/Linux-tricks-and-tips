@@ -40,11 +40,11 @@ baobab
   495  git config -l
   496  history 
   497  history > ~/thisPC/history3.txt
-<<<<<<< HEAD
+
 git var -l
 =======
 { when you forget git actions try visiting https://www.codeschool.com }
->>>>>>> 038566fc4dbcfd662acf54cd13d3bf58ddf76d85
+
 ====
 
 nm-tools    nm-applet   
@@ -68,10 +68,20 @@ rm -rf <directory>
 mkdir -p src/github.com/matrixmike 
 ====
 curl -s "https://get.sdkman.io" | bash     <-s for silent>
+ <possible reboot>
+sdk install leiningen
+lein
+lein --version
+lein   uberjar 
+java -jar target/stringeye-0.1.3-SNAPSHOT-standalone.jar &
+
+
+
+sdk install scala
+
+====
 curl electroteach.com/cgi-bin/cgi2.cgi
 ====
-sdk install leiningen
-sdk install scala
 ----
 alternative  // from http://www.scala-sbt.org/download.html
 echo "deb https://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
