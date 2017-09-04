@@ -93,11 +93,13 @@ idevice_id -l  ; do idevice<tabComplete>
 ====
 Haskell
 https://www.haskell.org/downloads/linux
+stack clean && stack build && stack sdist && stack test
 
 ====
 PATH=$PATH:~/opt/bin
 PATH=~/opt/bin:$PATH
-
+PATH=~/.local/bin:$PATH
+echo $PATH
 
 
 
