@@ -74,6 +74,7 @@ lein
 lein --version
 lein   uberjar 
 java -jar target/stringeye-0.1.3-SNAPSHOT-standalone.jar &
+stack --help | lpr -P HL-2040-series
 
 
 
