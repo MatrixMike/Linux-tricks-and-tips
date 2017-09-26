@@ -105,6 +105,8 @@ idevice_id -l  ; do idevice<tabComplete>
 Haskell
 https://www.haskell.org/downloads/linux
 stack clean && stack build && stack sdist && stack test
+sudo apt-get install gedit
+sudo apt-get install curl
 
 ====
 PATH=$PATH:~/opt/bin
