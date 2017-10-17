@@ -114,8 +114,7 @@ PATH=~/opt/bin:$PATH
 PATH=~/.local/bin:$PATH
 echo $PATH
 
-
-
-
+====WiFi
+dmesg | grep 3945   // latitude D830
 
 
