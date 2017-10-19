@@ -117,4 +117,6 @@ echo $PATH
 ====WiFi
 dmesg | grep 3945   // latitude D830
 
+putty 10.0.0.30
+
 
