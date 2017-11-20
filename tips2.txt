@@ -120,4 +120,14 @@ dmesg | grep 3945   // latitude D830
 
 putty 10.0.0.30
 
+====LUV  from session Saturday 18 November 2017 
+sudo dmidecode | grep design
+sudo dmidecode | grep Design
+route -n
+apt search xfce
+ 
+hddtemp /dev/sda
+sudo hddtemp /dev/sda 
+procmeter3
+ 
 
