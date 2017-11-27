@@ -129,5 +129,8 @@ apt search xfce
 hddtemp /dev/sda
 sudo hddtemp /dev/sda 
 procmeter3
- 
+
+====
+gtkterm --port /dev/ttyUSB0
+
 
