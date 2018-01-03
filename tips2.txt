@@ -133,4 +133,12 @@ procmeter3
 ====
 gtkterm --port /dev/ttyUSB0
 
+====
+exiftool -filename -gpslatitude -gpslongitude *.JPG
+exiftool -filename -gpslatitude -gpslongitude -csv *.JPG
+exiftool -filename -gpslatitude -gpslongitude -json *.JPG
+====
+find / -name version.h
+====
+iw list
 
