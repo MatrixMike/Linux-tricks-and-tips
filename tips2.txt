@@ -141,4 +141,6 @@ exiftool -filename -gpslatitude -gpslongitude -json *.JPG
 find / -name version.h
 ====
 iw list
+sudo dhclient -v enp2s0
+
 
