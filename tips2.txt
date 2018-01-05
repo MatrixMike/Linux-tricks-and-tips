@@ -143,4 +143,7 @@ find / -name version.h
 iw list
 sudo dhclient -v enp2s0
 
+====
+sudo hddtemp /dev/sda1 
+
 
