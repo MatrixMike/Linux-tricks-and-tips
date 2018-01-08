@@ -4,5 +4,10 @@ Dell Latitude D400 : BIOS update from A04 to A08
 use D400_A08.exe /forceit
 
 needed when message about power supply and battery need to be connected
+WIN XP environment provided by Hiren's CD 
+http://www.hirensbootcd.org/download/
+
+use F12 at boot to select one time boot config if necessary
+
 
 
