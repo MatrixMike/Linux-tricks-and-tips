@@ -146,4 +146,8 @@ sudo dhclient -v enp2s0
 ====
 sudo hddtemp /dev/sda1 
 
+====
+sudo apt-get install microcode.ctl intel-microcode
+	updated the microcode on intel CPU
+
 

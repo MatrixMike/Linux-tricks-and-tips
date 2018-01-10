@@ -9,5 +9,9 @@ http://www.hirensbootcd.org/download/
 
 use F12 at boot to select one time boot config if necessary
 
+Wed 10 Jan 2018 11:16:00 AEDT 
+BIOS updated from A04 to A19 on D630 - but needed the battery system to be connected - even with /forceit
+get Win XP to reboot a.o.t. shutdown to get the BIOS upgrade to activate. Took maybe 1 minute - seemed like a long time.
 
+next to try the microcode updates...
 
