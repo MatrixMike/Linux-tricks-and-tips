@@ -1,4 +1,4 @@
-
+curl --version
 geany --version
 gnome-keyring version
 gtk_colours --version
