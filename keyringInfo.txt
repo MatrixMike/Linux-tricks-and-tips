@@ -1,0 +1,10 @@
+gpg: keyring `/tmp/tmp9bn1pd4n/secring.gpg' created
+gpg: keyring `/tmp/tmp9bn1pd4n/pubring.gpg' created
+gpg: requesting key EEA14886 from hkp server keyserver.ubuntu.com
+gpg: /tmp/tmp9bn1pd4n/trustdb.gpg: trustdb created
+gpg: key EEA14886: public key "Launchpad VLC" imported
+gpg: no ultimately trusted keys found
+gpg: Total number processed: 1
+gpg:               imported: 1  (RSA: 1)
+OK
+
