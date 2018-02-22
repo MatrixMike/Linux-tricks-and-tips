@@ -1,3 +1,4 @@
+#!/bin/sh
 curl --version
 geany --version
 gnome-keyring version

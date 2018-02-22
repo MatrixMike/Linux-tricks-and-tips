@@ -1,3 +1,4 @@
+#!/bin/sh
 glib-gettextize --version
 
 intltoolize --version
