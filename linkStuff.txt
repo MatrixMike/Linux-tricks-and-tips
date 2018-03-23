@@ -1,5 +1,5 @@
 #
-
+# http://www.linuxfromscratch.org/lfs/view/development/chapter06/createfiles.html
 #ln and symbolic links
 ln --help  # gives useful info
 
