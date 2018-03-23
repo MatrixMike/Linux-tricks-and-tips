@@ -1,0 +1,22 @@
+#
+
+#ln and symbolic links
+ln --help  # gives useful info
+
+
+mkdir linkTest
+cd linkTest
+readlink --help
+echo "some data in this file" > dateFile.txt
+ls -lctrh
+cd ~/
+ 2020  ln -sv ~/linkTest/dateFile.txt FriTest
+ls -lctrh
+cat FriTest 
+ls -lctrh
+
+readlink   FriTest 
+readlink   bin
+readlink   studio.sh 
+
+
