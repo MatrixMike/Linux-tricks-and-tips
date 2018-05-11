@@ -155,5 +155,12 @@ sudo apt-get install microcode.ctl intel-microcode
 	updated the microcode on intel CPU
 
 http://www.gnu.org/software/coreutils/manual/coreutils.html#link-invocation
+====
+apt search gtk | more
+dmesg -xT
+ls /usr/local/bin/  -lctrh
+ls /etc/udev/rules.d/
+sudo modprobe -r usb-storage && modprobe usb-storage quirks=483:3744:i
+
 
 

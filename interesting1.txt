@@ -1,0 +1,7 @@
+failed to download microcode index - 404
+update-rc.d: warning: microcode.ctl start runlevel arguments (S) do not match LSB Default-Start values (2 3 4 5)
+update-rc.d: warning: microcode.ctl stop runlevel arguments (none) do not match LSB Default-Stop values (0 1 6)
+Applying Intel IA32 Microcode update... done.
+Setting up intel-microcode (0.20140624-p-1ubuntu1) ...
+Applying Intel IA32 Microcode update... done.
+
