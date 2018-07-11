@@ -160,3 +160,6 @@ http://www.gnu.org/software/coreutils/manual/coreutils.html#link-invocation
 fdisk -l
 lsblk
 
+====
+sudo apt-get autoremove
+
