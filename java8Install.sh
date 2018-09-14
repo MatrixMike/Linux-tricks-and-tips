@@ -6,4 +6,9 @@ sudo apt-get install oracle-java8-installer
 javac -version
 pwd
 sudo apt-get install oracle-java8-set-default
+#
+#https://debian-handbook.info/browse/stable/sect.apt-get.html
+#sudo apt-get install oracle-java8-set-default
+
+
 
