@@ -10,6 +10,7 @@ echo $a
 echo "---" 
 for i in {1,3,5,7};
  do
-  a=$(( $i * 3));
+  a=$(( i * 3));
+# was   a=$(( $i * 3));
   echo $a
 done
