@@ -162,4 +162,7 @@ lsblk
 
 ====
 sudo apt-get autoremove
+====
+sudo apt-get install openssh-server openssh-client
+
 
