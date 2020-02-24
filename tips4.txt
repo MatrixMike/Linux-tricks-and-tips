@@ -162,4 +162,6 @@ lsblk
 
 ====
 sudo apt-get autoremove
+====
+ssh
 
