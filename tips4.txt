@@ -165,4 +165,8 @@ sudo apt-get autoremove
 ====
 sudo apt-get install openssh-server openssh-client
 
+====
+for path setting 
+https://www.computerhope.com/issues/ch001647.htm
+
 
