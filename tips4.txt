@@ -1,0 +1,5 @@
+Tue 01 Sep 2020 15:27:14 
+
+sudo apt install openssh-server
+
+
