@@ -1,0 +1,7 @@
+Tue 29 Sep 2020 20:04:01 AEST 
+
+find . -type f -name "*.txt"
+
+sudo ipcalc 192.168.1.0/26 --split 14 10 3 
+
+
