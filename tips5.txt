@@ -4,4 +4,6 @@ find . -type f -name "*.txt"
 
 sudo ipcalc 192.168.1.0/26 --split 14 10 3 
 
+git remote show origin
+
 
