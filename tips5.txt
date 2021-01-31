@@ -6,4 +6,7 @@ sudo ipcalc 192.168.1.0/26 --split 14 10 3
 
 git remote show origin
 
+echo $XDG_CURRENT_DESKTOP
+Here’s How to Find Out Which Desktop Environment You are Using
+sudo apt install screenfetch
 
