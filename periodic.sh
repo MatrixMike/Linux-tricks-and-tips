@@ -5,7 +5,7 @@ uname -a
 lsb_release -a
 df -h
 uptime -p
-ifconfig wlp1s0
+ifconfig | ag -i 192
 whoami
 
 
