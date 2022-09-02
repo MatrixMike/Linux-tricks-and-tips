@@ -1,6 +1,6 @@
 1999  git clone https://www.github.com/MatrixMike/hardinfo.git
 
 ====
-sudo apt-get install build-essential libgtk2.0-dev libjson-glib-dev
+sudo apt-get install build-essential libgtk2.0-dev libjson-glib-dev libsoup-gnome2.4-dev 
 
  
