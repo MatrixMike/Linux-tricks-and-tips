@@ -1,1 +1,3 @@
 sudo apt-get install libpcre3-dev libpcre3
+sudo apt-get install liblzma-dev
+
